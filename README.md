@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi there, I'm Nyein Chan Aung 👋</h1>
 
 <p align="center">
@@ -8,7 +6,7 @@
  </a>
 </p>
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Koe Koe Tech
 - 🌱 I’m currently learning dot net technologies
