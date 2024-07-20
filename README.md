@@ -8,7 +8,7 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Koe Koe Tech
+- 🔭 I’m currently working at 2c2p
 - 🌱 I’m currently learning dot net technologies
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
